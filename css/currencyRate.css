@@ -1,0 +1,14 @@
+.input-group > .form-control {
+    flex: none;
+    width: 300px;
+}
+
+.input-group > .form-select {
+    flex: none;
+    width: 100px;
+}
+
+#btn-convert {
+    margin: 0 10px 0 10px;
+    border-radius: 8px;
+}

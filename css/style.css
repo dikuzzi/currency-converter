@@ -1,0 +1,11 @@
+.wrapper {
+    background-color: rgb(244, 245, 248);
+}
+
+.panel__btn {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJftEEnYN5S6TUgiaOYA8K0GreMxwVOCYqt9mF-FkkWvT4luiavtlO9VFn1ByeXXyQi9s&usqp=CAU');
+    background-size: cover;
+    height: 20px;
+    width: 20px;
+    border: none;
+}
